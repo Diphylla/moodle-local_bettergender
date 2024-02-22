@@ -34,10 +34,10 @@ if ($hassiteconfig) { // needs this condition or there is error on login page
             '', get_string('plugindesc', 'local_bettergender'))
     );
 
-    $settings->add(new admin_setting_configtext('local_bettergender/genderchar',
+    $categories = ['*', '_', '/'];
+    $settings->add(new admin_setting_configmultiselect('local_bettergender/genderchar',
             get_string('setting_genderchar', 'local_bettergender'),
             get_string('setting_genderchar_desc', 'local_bettergender'),
-            10,
-            PARAM_INT)
+            [], $categories)
     );
 }

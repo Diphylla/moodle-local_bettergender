@@ -26,3 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Better Gender';
+$string['plugin_desc'] = 'Dieses Plugin tut etwas.';
+$string['setting_genderchar'] = 'Choose the desired character.';
+$string['setting_genderchar_desc'] = 'A diagonal slash(/) is already standard in moodle, although currently not used consistently throughout all strings.';

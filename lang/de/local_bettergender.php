@@ -27,3 +27,5 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Besser Gendern';
 $string['plugin_desc'] = 'Dieses Plugin tut etwas.';
+$string['setting_genderchar'] = 'Wählen Sie das gewünschte Zeichen aus.';
+$string['setting_genderchar_desc'] = 'Der Schrägstrich(/) wird in Moodle bereits als Standard verwendet, allerdings nicht konsistent in allen Sprachstrings.';
