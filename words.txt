@@ -1,0 +1,23 @@
+Teilnehmer
+Nutzer
+Trainer
+Anfänger
+Entwickler
+Bewerter
+Empfänger
+Verleiher
+Forscher
+Antragsteller
+Kursantragsmanager
+Anspreachpartner
+Veröffentlicher
+Ersteller
+Betrachter
+Unterzeichner
+Einreicher
+Bereitsteller
+Manager
+Kursteilnehmer
+Wiederhersteller
+
+Suchen nach "er/in", "or/in", und gar nicht gegenderten Worten
